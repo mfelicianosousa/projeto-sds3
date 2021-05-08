@@ -12,11 +12,20 @@ A aplicação exibe um dashboard a partir de dados fornecidos por um back end co
 Criar projetos backend e frontend em 3 Episódios salvando o projeto no github em monorepo (esse formato aqui). 
 Utilizando banco de dados H2 no desenvolvimento e testes, Postgree em produção, local e na nuvem.
 
+# Layout Web
+![Web 1](https://github.com/mfelicianosousa/assets/project/raw/sds3/web1.png)
+
+
+# Modelo Conceitual
+![Modelo Conceitual](https://github.com/mfelicianosousa/assets/project/raw/sds3/model-conceitual.png)
+
 ## Publicar o frontend no Netlify  ( Cloud ) 
 
 - https://mfs-sds3.netlify.app
 
 ## Publicar o backend no Heroku ( Cloud )
+
+**Obs: Pode usar o endereço eletronico abaixo no Postman para tests de API, conforme descrito logo abaixo em rotinas de Test.**
 
 - https://sds3-mfs.herokuapp.com/
 
