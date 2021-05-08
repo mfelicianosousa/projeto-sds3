@@ -1,6 +1,6 @@
 #  Semana Spring React - SDS 3.0
 
-[![NPM](https://img.shields.io/npm/l/react)] (https://github.com/mfelicianosousa/projeto-sds3/blob/add-license-2/LICENSE)
+[![NPM](https://img.shields.io/npm/1/react)] (https://github.com/mfelicianosousa/projeto-sds3/blob/add-license-2/LICENSE)
 
 Semana Srping React é uma imersão nas tecnologias Spring Boot e React construindo uma aplicação full stack na web, evento este organizado pela **DevSuperior**. 
 
